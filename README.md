@@ -4,8 +4,8 @@
 This repository contains code for a simple Spring Boot application that uses Elasticsearch to store and search data. The Docker Compose file is included to easily spin up an Elasticsearch instance.
 
 # Prerequisites
-Docker
-Docker Compose
+* Docker
+* Docker Compose
 
 # Installation
 
