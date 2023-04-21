@@ -1,8 +1,6 @@
 
 # Elastic Search
 
-![1_BmvPfSSm2G8C-khX1rhCGg](https://user-images.githubusercontent.com/47903345/233543978-69e7e292-8911-4f6b-8c07-2feadecd5992.png)
-
 This repository contains code for a simple Spring Boot application that uses Elasticsearch to store and search data. The Docker Compose file is included to easily spin up an Elasticsearch instance.
 
 # Prerequisites
